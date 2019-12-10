@@ -3,7 +3,7 @@ Link-url
 
 2 steps
 
-https://www.youtube.com/watch?v=EPfWaiKo78k
+laravel gmail send: https://www.youtube.com/watch?v=XrxNgDrgDwg
 
-
-https://www.youtube.com/watch?v=4hete8Q31UI
+laravel gmail access: https://www.youtube.com/watch?v=a08ouL3wjjQ
+             setting:	https://myaccount.google.com/security: 
